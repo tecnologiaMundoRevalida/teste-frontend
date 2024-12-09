@@ -14,7 +14,7 @@ O teste consiste em desenvolver uma plataforma de vídeos, similar ao Youtube. S
 
 ### Obrigatório
 - Responsividade (o layout conta com modelo web e mobile)
-- Navegação entre sa páginas usando o ID do vídeo
-- Fidelidade o layout do Figma
+- Navegação entre as páginas usando o ID do vídeo
+- Fidelidade ao layout do Figma
 
 **Figma** - > https://www.figma.com/design/wevTBdVPEerExN16Lqu3xf/Untitled?node-id=0-1&node-type=canvas&t=952u3JCXS9YBFdGW-0
