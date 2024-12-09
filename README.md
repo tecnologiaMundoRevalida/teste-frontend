@@ -8,7 +8,7 @@ O teste consiste em desenvolver uma plataforma de vídeos, similar ao Youtube. S
 ### Tecnologias usadas
 - Next JS 13/14 (https://nextjs.org/docs)
 - Typescript 
-- styledcomponents (https://styled-components.com/docs)
+- styled-components (https://styled-components.com/docs)
 - PhosphorIcons (https://phosphoricons.com)
 - ReactPlyer (https://www.npmjs.com/package/react-player)
 
