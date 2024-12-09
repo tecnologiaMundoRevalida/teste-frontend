@@ -10,7 +10,7 @@ O teste consiste em desenvolver uma plataforma de vídeos, similar ao Youtube. S
 - Typescript 
 - styled-components (https://styled-components.com/docs)
 - PhosphorIcons (https://phosphoricons.com)
-- ReactPlyer (https://www.npmjs.com/package/react-player)
+- ReactPlayer (https://www.npmjs.com/package/react-player)
 
 ### Obrigatório
 - Responsividade (o layout conta com modelo web e mobile)
