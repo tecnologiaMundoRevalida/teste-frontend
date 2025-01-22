@@ -18,3 +18,7 @@ O teste consiste em desenvolver uma plataforma de vídeos, similar ao Youtube. S
 - Fidelidade ao layout do Figma
 
 **Figma** - > https://www.figma.com/design/wevTBdVPEerExN16Lqu3xf/Untitled?node-id=0-1&node-type=canvas&t=952u3JCXS9YBFdGW-0
+
+O candidato deverá criar um repositório público no Github e enviar o link do repositório por email para que ocorra a correção.
+
+Boa sorte.
